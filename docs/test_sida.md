@@ -1,3 +1,3 @@
 # hér er eitthvað rosa sniðugt
 
-mjög fínt
+mjög fínt 
