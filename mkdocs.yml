@@ -1,14 +1,14 @@
 site_name: My Docs Experiment
 site_description: >- 
   prufu síða fyrir mk docs
-site_url: https://hanndoddi.github.io/mkdocs/
+site_url: https://hanndoddi.github.io/mkdocs
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
-    - navigation.top
+    - navigation.top 
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -32,6 +32,9 @@ theme:
 plugins:
   - social
   - search
+  - tags
+  - tags:
+      tags_file: tags.md
 
 extra:
   social:
