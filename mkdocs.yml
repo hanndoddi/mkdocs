@@ -1,7 +1,7 @@
 site_name: My Docs Experiment
 site_description: >- 
   prufu síða fyrir mk docs
-site_url: https://newblog.johnsturgeon.me/
+site_url: https://hanndoddi.github.io/mkdocs/
 theme:
   name: material
   features:
