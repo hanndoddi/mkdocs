@@ -4,6 +4,7 @@ site_description: >-
 site_url: https://hanndoddi.github.io/mkdocs
 theme:
   name: material
+  custom_dir: material
   features:
     - navigation.tabs
     - navigation.sections
@@ -67,4 +68,6 @@ markdown_extensions:
     #  emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/hanndoddi"  target="_blank" rel="noopener">hanndoddi</a>      
+  &copy; 2024 <a href="https://github.com/hanndoddi"  target="_blank" rel="noopener">hanndoddi</a>  
+
+
