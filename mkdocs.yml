@@ -50,6 +50,16 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/hanndoddi
 
+extra_javascript:
+  - javascripts/jquery.min.js
+  - javascripts/jquery.scrollex.min.js
+  - javascripts/jquery.scrolly.min.js
+  - javascripts/browser.min.js
+  - javascripts/breakpoints.min.js
+  - javascripts/main.js
+  - javascripts/util.js
+
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
